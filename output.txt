@@ -1,0 +1,182 @@
+ПЕРВЫЙ ВЫВОД
+
+Task 1
+Enter the first base
+6
+Enter the second base
+8
+Enter the height
+3
+The area of given Trapezoid is 21
+
+Task 4
+Enter the four-digit number
+9645
+The sum of its digits is 24
+
+Task 7
+Enter the first coefficient
+1
+Enter the second coefficient
+3
+Enter the third coefficient
+2
+The solutions are -1 and -2
+
+Task 10
+Enter the first side
+4
+Enter the second side
+5
+Enter the third side
+4
+The triangle is isosceles
+
+Task 13
+The first number is 3, the second one is 2. Enter the product
+6
+User is correct
+
+Task 16
+Enter the six-digit number
+123411
+Number is lucky
+
+
+
+ВТОРОЙ ВЫВОД
+
+Task 1
+Enter the first base
+4.6
+Enter the second base
+7.3
+Enter the height
+3
+The area of given Trapezoid is 17.85
+
+Task 4
+Enter the four-digit number
+9934
+The sum of its digits is 25
+
+Task 7
+Enter the first coefficient
+1
+Enter the second coefficient
+-2
+Enter the third coefficient
+-3
+The solutions are 3 and -1
+
+Task 10
+Enter the first side
+4
+Enter the second side
+5
+Enter the third side
+6
+The triangle is not isosceles
+
+Task 13
+The first number is 9, the second one is 5. Enter the product
+34
+User is not correct
+
+Task 16
+Enter the six-digit number
+123456
+Number is not lucky
+
+
+
+ТРЕТИЙ ВЫВОД
+
+
+Task 1
+Enter the first base
+80
+Enter the second base
+50
+Enter the height
+20
+The area of given Trapezoid is 1300
+
+Task 4
+Enter the four-digit number
+7777
+The sum of its digits is 28
+
+Task 7
+Enter the first coefficient
+1
+Enter the second coefficient
+12
+Enter the third coefficient
+36
+There is one solution: -6
+
+Task 10
+Enter the first side
+6
+Enter the second side
+6
+Enter the third side
+7
+The triangle is isosceles
+
+Task 13
+The first number is 2, the second one is 9. Enter the product
+9
+User is not correct
+
+Task 16
+Enter the six-digit number
+923761
+Number is lucky
+
+
+ЧЕТВЕРТЫЙ ВЫВОД
+
+
+Task 1
+Enter the first base
+4
+Enter the second base
+5
+Enter the height
+2
+The area of given Trapezoid is 9
+
+Task 4
+Enter the four-digit number
+3434
+The sum of its digits is 14
+
+Task 7
+Enter the first coefficient
+2
+Enter the second coefficient
+1
+Enter the third coefficient
+67
+There is no solution
+
+Task 10
+Enter the first side
+5
+Enter the second side
+6
+Enter the third side
+6
+The triangle is isosceles
+
+Task 13
+The first number is 2, the second one is 6. Enter the product
+12
+User is correct
+
+Task 16
+Enter the six-digit number
+678678
+Number is lucky
