@@ -1,0 +1,50 @@
+Task # 3
+Enter the length of the first cathetus: 56
+Enter the length of the secon cathetus: 4
+
+Result of task3:
+S = 112
+Hypotenuse = 56.1427
+
+Task # 6
+Enter radius: 45
+Enter angle in radians: 4
+Cartesian coordinates: (-29.414, -34.0561)
+
+Task # 9
+Enter the last second of the day: 456778
+Number of hours: 7612
+Number of minutes: 58
+
+Task # 12
+Enter your height: 200
+Enter your weight: 60
+Your weight is below average
+
+Task # 15
+Enter month number: 5
+Month: May
+Season: Spring
+
+Task # 18
+Enter a four-digit number: 4554
+The number is a palindrome
+
+Task # 19
+Enter a three-digit number: 765
+Enter number b: 767
+Multiplication NOT more than b
+Sum of digits is NOT a multiple of seven
+
+Task # 21
+Size of char: 1 byte
+Size of int: 4 byte
+Size of float: 4 byte
+Size of double: 8 byte
+Size of bool: 1 byte
+Size of short: 2 byte
+Size of long: 4 byte
+Size of long long: 8 byte
+
+C:\Users\Алина\source\repos\Project_hw\x64\Debug\Project_hw.exe (процесс 30600) завершил работу с кодом 0.
+
