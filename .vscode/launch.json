@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/C++/CppLabsGoga/CppLabs",
-      "program": "c:/C++/CppLabsGoga/CppLabs/build/Debug/outDebug",
+      "cwd": "c:/C++/CppLabsGoga/CppLabs-2/dz",
+      "program": "c:/C++/CppLabsGoga/CppLabs-2/dz/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

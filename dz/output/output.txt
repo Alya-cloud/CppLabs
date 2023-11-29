@@ -1,0 +1,23 @@
+Result of task 2: 
+Circumference: 157.08
+Area: 1963.5
+
+Result of task 5: 
+r: 2657.41
+Theta: 1.47809
+
+Result of task 8: 
+Medians: 2758.33, 2685.52, 1635.08
+
+Result of task 11: 
+Final Total: 5162.4
+
+Result of task 14: 
+Total Cost: 45747
+
+Result of task 17: 
+37357 kopeek
+
+Result of task 20: 
+The rectangle can fit.
+

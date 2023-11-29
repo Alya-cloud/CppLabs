@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include <fstream>
 //Georgii Davydov 22Bi-2//
 void DlinaOkruzhnostiAndPloshadKruga() {
     double r;
@@ -48,7 +49,7 @@ void StoimostPeregovorov() {
 void Kopeyka() {
     int coins;
     std::cin >> coins;
-    std::string word = (coins % 10 == 1 && coins % 100 != 11) ? "копейка" : (coins % 10 >= 2 && coins % 10 <= 4 && (coins % 100 < 10 || coins % 100 >= 20)) ? "копейки" : "копеек";
+    std::string word = (coins % 10 == 1 && coins % 100 != 11) ? "kopeek" : (coins % 10 >= 2 && coins % 10 <= 4 && (coins % 100 < 10 || coins % 100 >= 20)) ? "kopeyki" : "kopeek";
     std::cout << coins << " " << word << std::endl;
 }
 
@@ -63,6 +64,9 @@ void PramougolnikVmestitPramougolnik() {
 }
 
 int main() {
+    std::ofstream out("output.txt");
+    std::streambuf *coutbuf = std::cout.rdbuf(); 
+    std::cout.rdbuf(out.rdbuf()); 
     //Task 2//
     std::cout << "Result of task 2: "  << std::endl;
     DlinaOkruzhnostiAndPloshadKruga();    
@@ -91,6 +95,6 @@ int main() {
     std::cout << "Result of task 20: "  << std::endl;
     PramougolnikVmestitPramougolnik();    
     std::cout<< std::endl;
-
+    std::cout.rdbuf(coutbuf); 
     return 0;
 }
